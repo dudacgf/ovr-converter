@@ -3,7 +3,7 @@ Flask-Session>=0.8.0
 Bootstrap-Flask>=2.4.0
 python-gvm
 markupsafe
-werkzeug>=3.0.3
+werkzeug>=3.0.6
 PyYAML
 OpenVAS-Reporting
 defusedxml
